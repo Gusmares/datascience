@@ -8,7 +8,7 @@ Este repositório contém um pequeno projeto de análise e visualização de dad
 
 - Python 🐍
 - Pandas 📈
-- Matplotlib / Seaborn 📊
+- Matplotlib 📊
 - Node.js (para testes com JSON, opcional)
 
 ---
