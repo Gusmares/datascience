@@ -26,7 +26,7 @@ Este repositório contém um pequeno projeto de análise e visualização de dad
 
 Desenvolvido por **Gusmares**  
 📧 gustavocg2107@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/gustavocgomes)  
+💼 [LinkedIn](https://www.linkedin.com/in/gustavo-gaspar-270850319/)  
 🐙 [GitHub](https://github.com/Gusmares)
 
 ---
